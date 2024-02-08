@@ -34,8 +34,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,sass,cytoscape" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nextjs,mysql,unity,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nextjs,mysql,unity,cpp,cytoscape,ps,ai,ae,php,unreal,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nextjs,mysql,unity,cpp, sass" /><br>
+    <img src="https://skillicons.dev/icons?i=ps,ai,ae,php,unreal,visualstudio" />
 </div>
 
 <br/>
