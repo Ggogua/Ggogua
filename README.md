@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Georgia</h3>
-<p>Website: <a href="https://ggogua.github.io/index.html" /></p>
+<p><a href="https://ggogua.github.io/index.html" align="center">Personal Website</a></p>
 
 <br/>
 
