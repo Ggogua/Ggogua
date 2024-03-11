@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">Software Developer</h3>
-<p align="center"><a href="https://ggogua.github.io/index.html" target="_blank">Personal Website</a></p>
+
 
 <br/>
 
