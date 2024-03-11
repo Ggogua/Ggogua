@@ -12,8 +12,7 @@
 <div align="center">
  
  🔭 I’m currently working on **freelancing**
- 
- 🌱 I’m currently learning **ReactJS**
+
 
  </div>
  
