@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">Software Developer</h3>
-<a href="https://giorgigogua.netlify.app/?fbclid=IwAR3qbw_zFuc7zlEJjMlchL9dEfugi-Zj7QkDePvgNtteRwkfcBZWi2z_68o">
+<a href="https://giorgigogua.netlify.app/?fbclid=IwAR3qbw_zFuc7zlEJjMlchL9dEfugi-Zj7QkDePvgNtteRwkfcBZWi2z_68o" target="_blank">
     <p align="center">Personal Website</p>
 </a>
 
